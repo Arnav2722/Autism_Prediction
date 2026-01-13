@@ -25,7 +25,7 @@ This project builds a machine learning system that predicts whether a person is 
 
 - **Class imbalance handling using SMOTE**
 
-- **Training multiple ML models:
+- **Training multiple ML models:**
 
     - Decision Tree
 
